@@ -1,4 +1,4 @@
 # Simple ASCON
 A simplified implementation of [ASCON cipher suite](https://ascon.iaik.tugraz.at) in C.
 
-For now a placeholder is added, and the fully tested code will be uploaded as soon as I find the time to clear the clutter and refactor it.
+For now the [old version](https://csrc.nist.gov/CSRC/media/Projects/lightweight-cryptography/documents/round-2/spec-doc-rnd2/ascon-spec-round2.pdf) of ASCON has been implemented. The [NIST-approved version](https://csrc.nist.gov/pubs/sp/800/232/final) will be implemented later.
